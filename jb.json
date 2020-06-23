@@ -1,0 +1,129 @@
+const interns = 
+        [
+                {
+                id: 0,
+                name:'bob',
+                score: 150,
+                email: 'bob@gmail.com'
+                },
+                {
+                id: 1,
+                name:'Zucchipakoda',
+                score: 1,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 2,
+                name:'Zucchipakoda',
+                score: 2,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 3,
+                name:'Zucchipakoda',
+                score: 3,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 4,
+                name:'Zucchipakoda',
+                score: 4,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 5,
+                name:'Zucchipakoda',
+                score: 5,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 6,
+                name:'Zucchipakoda',
+                score: 6,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 7,
+                name:'Zucchipakoda',
+                score: 7,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 8,
+                name:'Zucchipakoda',
+                score: 8,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 9,
+                name:'Zucchipakoda',
+                score: 9,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 10,
+                name:'Zucchipakoda',
+                score: 10,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 11,
+                name:'Zucchipakoda',
+                score: 11,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 12,
+                name:'Zucchipakoda',
+                score: 12,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 13,
+                name:'Zucchipakoda',
+                score: 13,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 14,
+                name:'Zucchipakoda',
+                score: 14,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 15,
+                name:'Zucchipakoda',
+                score: 15,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 16,
+                name:'Zucchipakoda',
+                score: 16,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 17,
+                name:'Zucchipakoda',
+                score: 17,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 18,
+                name:'Zucchipakoda',
+                score: 18,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 19,
+                name:'Zucchipakoda',
+                score: 19,
+                email: 'zucc@gmail.com'
+                },
+                {
+                id: 20,
+                name:'Zucchipakoda',
+                score: 20,
+                email: 'zucc@gmail.com'
+                }
+    ]; 
