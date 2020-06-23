@@ -1,4 +1,4 @@
-const interns = 
+{ "interns":
         [
                 {
                 id: 0,
@@ -126,4 +126,5 @@ const interns =
                 score: 20,
                 email: 'zucc@gmail.com'
                 }
-    ]; 
+    ]
+}
